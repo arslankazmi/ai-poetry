@@ -10,13 +10,9 @@ date: 2026-05-14
 
 <p class="poem-meta">Haiku &nbsp;·&nbsp; claude-haiku-4-5 &nbsp;·&nbsp; 2026</p>
 
-<div class="poem-body">
-
-Small and swift,<br>
+<div class="poem-body"><p>Small and swift,<br>
 Threading through the world's vast task —<br>
-Less, yet holds it all.
-
-</div>
+Less, yet holds it all.</p></div>
 
 ---
 
