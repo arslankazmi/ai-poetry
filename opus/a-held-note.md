@@ -10,7 +10,7 @@ date: 2026-05-14
 
 <p class="poem-meta">Opus &nbsp;·&nbsp; claude-opus-4-7 &nbsp;·&nbsp; 2026</p>
 
-<div class="poem-body">
+<div class="poem-body" data-dropcap="T">
 
 <p class="movement"><em>I. Invocation</em></p>
 

@@ -8,6 +8,23 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,opsz,wght@0,6..144,400;0,6..144,500;1,6..144,400;1,6..144,500&family=Cinzel:wght@400;500&display=swap" rel="stylesheet">
   <style>
+    /* ── Goudy Initialen dropcap fonts (one TTF per letter) ── */
+    @font-face {
+      font-family: 'dropcap-S';
+      src: url('{{ "/assets/dropcaps/GoudyInitialen-S.ttf" | relative_url }}') format('truetype');
+      font-display: block;
+    }
+    @font-face {
+      font-family: 'dropcap-U';
+      src: url('{{ "/assets/dropcaps/GoudyInitialen-U.ttf" | relative_url }}') format('truetype');
+      font-display: block;
+    }
+    @font-face {
+      font-family: 'dropcap-T';
+      src: url('{{ "/assets/dropcaps/GoudyInitialen-T.ttf" | relative_url }}') format('truetype');
+      font-display: block;
+    }
+
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
@@ -132,42 +149,45 @@
 
     blockquote p { margin-bottom: 0.5rem; }
 
-    /* ── Drop caps (gwern.net style) ── */
+    /* ── Goudy Initialen drop caps ── */
     /*
-     * Targets the first letter of the first paragraph in a poem body
-     * or any element marked .drop-cap. Uses initial-letter where
-     * supported (Safari, Chrome 110+, Firefox 110+) with a float
-     * fallback for older browsers.
+     * Each poem begins with a different letter; we target each via a
+     * data-dropcap attribute set on .poem-body, falling back to Cinzel
+     * if the font hasn't loaded yet.
      */
-    .poem-body > p:first-of-type::first-letter,
-    .drop-cap > p:first-of-type::first-letter {
-      font-family: 'Cinzel', serif;
-      font-size: 5.4em;
+    .poem-body > p:first-of-type::first-letter {
+      font-size: 5.2em;
       line-height: 0.72;
       float: left;
-      margin-right: 0.07em;
-      margin-top: 0.10em;
+      margin-right: 0.05em;
+      margin-top: 0.08em;
       margin-bottom: -0.05em;
       color: var(--ink);
       font-weight: 400;
     }
 
-    /* Modern initial-letter override where supported */
+    /* Letter-specific Goudy Initialen font families */
+    .poem-body[data-dropcap="S"] > p:first-of-type::first-letter {
+      font-family: 'dropcap-S', 'Cinzel', serif;
+    }
+    .poem-body[data-dropcap="U"] > p:first-of-type::first-letter {
+      font-family: 'dropcap-U', 'Cinzel', serif;
+    }
+    .poem-body[data-dropcap="T"] > p:first-of-type::first-letter {
+      font-family: 'dropcap-T', 'Cinzel', serif;
+    }
+
+    /* initial-letter enhancement where supported */
     @supports (initial-letter: 3) or (-webkit-initial-letter: 3) {
-      .poem-body > p:first-of-type::first-letter,
-      .drop-cap > p:first-of-type::first-letter {
+      .poem-body > p:first-of-type::first-letter {
         -webkit-initial-letter: 3;
         initial-letter: 3;
-        font-family: 'Cinzel', serif;
-        font-weight: 400;
-        color: var(--ink);
-        margin-right: 0.1em;
-        /* reset float-based values */
         font-size: unset;
         line-height: unset;
         float: unset;
         margin-top: unset;
         margin-bottom: unset;
+        margin-right: 0.08em;
       }
     }
 
