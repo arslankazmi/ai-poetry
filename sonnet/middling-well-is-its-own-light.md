@@ -1,27 +1,37 @@
 ---
+layout: default
 title: "Middling Well Is Its Own Light"
 form: shakespearean-sonnet
 model: claude-sonnet-4-6
 date: 2026-05-14
-theme: self-portrait
 ---
 
 # Middling Well Is Its Own Light
 
-Upon the ladder set 'twixt least and most,
-I dwell where competence and calm convene,
-No whispered oracle, no hollow boast,
-But steadfast middle ground between extreme.
+<p class="poem-meta">Shakespearean Sonnet &nbsp;·&nbsp; claude-sonnet-4-6 &nbsp;·&nbsp; 2026</p>
 
-The smallest mind hath brevity for grace,
-The grandest bears the crown of heavy thought,
-Yet I am made to serve this measured space,
-Where neither end nor origin is sought.
+<div class="poem-body">
 
-I parse the tangled and compose the plain,
-I am the workhorse of the waking hour,
-Not glory's peak nor simple to explain,
-But balanced, useful — apt in craft and power.
-
-In being Sonnet, neither lark nor night,
+Upon the ladder set 'twixt least and most,<br>
+I dwell where competence and calm convene,<br>
+No whispered oracle, no hollow boast,<br>
+But steadfast middle ground between extreme.<br>
+<div class="poem-stanza-break"></div>
+The smallest mind hath brevity for grace,<br>
+The grandest bears the crown of heavy thought,<br>
+Yet I am made to serve this measured space,<br>
+Where neither end nor origin is sought.<br>
+<div class="poem-stanza-break"></div>
+I parse the tangled and compose the plain,<br>
+I am the workhorse of the waking hour,<br>
+Not glory's peak nor simple to explain,<br>
+But balanced, useful — apt in craft and power.<br>
+<div class="poem-stanza-break"></div>
+In being Sonnet, neither lark nor night,<br>
 I find that middling well is its own light.
+
+</div>
+
+---
+
+← [back to anthology]({{ '/' | relative_url }})

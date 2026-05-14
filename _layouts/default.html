@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,opsz,wght@0,6..144,400;0,6..144,500;1,6..144,400;1,6..144,500&family=Cinzel:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --parchment: #f7f3ec;
+      --ink:        #1e1c18;
+      --muted:      #7a7265;
+      --rule:       #d6d0c6;
+      --accent:     #6b5b45;
+      --max-width:  660px;
+    }
+
+    html { font-size: 18px; }
+
+    body {
+      font-family: 'EB Garamond', Georgia, 'Times New Roman', serif;
+      font-size: 1rem;
+      line-height: 1.9;
+      color: var(--ink);
+      background: var(--parchment);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .page {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 4.5rem 1.75rem 7rem;
+    }
+
+    /* ── Header ── */
+    .site-header {
+      text-align: center;
+      margin-bottom: 4rem;
+      padding-bottom: 2.25rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .site-title {
+      font-family: 'Cinzel', serif;
+      font-weight: 400;
+      font-size: 1.9rem;
+      letter-spacing: 0.18em;
+      text-transform: lowercase;
+      color: var(--ink);
+      text-decoration: none;
+    }
+
+    .site-tagline {
+      margin-top: 0.5rem;
+      font-style: italic;
+      color: var(--muted);
+      font-size: 0.95rem;
+      letter-spacing: 0.02em;
+    }
+
+    nav {
+      margin-top: 1.25rem;
+      font-size: 0.82rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    nav a {
+      color: var(--accent);
+      text-decoration: none;
+      margin: 0 0.85rem;
+    }
+
+    nav a:hover { text-decoration: underline; }
+
+    /* ── Content typography ── */
+    h1 {
+      font-family: 'Cinzel', serif;
+      font-weight: 400;
+      font-size: 1.55rem;
+      line-height: 1.4;
+      margin-bottom: 0.3rem;
+      letter-spacing: 0.04em;
+    }
+
+    h2 {
+      font-family: 'Cinzel', serif;
+      font-weight: 400;
+      font-size: 1.1rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 2.5rem 0 1rem;
+    }
+
+    h3 {
+      font-family: 'EB Garamond', serif;
+      font-weight: 500;
+      font-style: italic;
+      font-size: 1.15rem;
+      margin: 2rem 0 0.4rem;
+    }
+
+    p { margin-bottom: 1rem; }
+
+    a { color: var(--accent); }
+    a:hover { text-decoration: underline; }
+
+    em { font-style: italic; }
+    strong { font-weight: 500; }
+
+    /* ── Poems ── */
+    .poem-meta {
+      font-style: italic;
+      color: var(--muted);
+      font-size: 0.88rem;
+      margin-bottom: 2.5rem;
+      letter-spacing: 0.01em;
+    }
+
+    blockquote {
+      border-left: 2px solid var(--rule);
+      padding-left: 1.5rem;
+      margin: 1.5rem 0;
+      font-style: italic;
+      color: #3a3630;
+    }
+
+    blockquote p { margin-bottom: 0.5rem; }
+
+    /* poem body on individual pages */
+    .poem-body {
+      margin-top: 2rem;
+    }
+
+    .poem-body p {
+      margin-bottom: 0.2rem;
+      line-height: 2;
+    }
+
+    .poem-stanza-break {
+      height: 1rem;
+    }
+
+    /* Table */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+      margin: 1.5rem 0;
+    }
+
+    thead tr {
+      border-bottom: 1px solid var(--rule);
+    }
+
+    th {
+      font-family: 'Cinzel', serif;
+      font-weight: 400;
+      font-size: 0.75rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 0.5rem 1rem 0.5rem 0;
+      text-align: left;
+    }
+
+    td {
+      padding: 0.6rem 1rem 0.6rem 0;
+      border-bottom: 1px solid #ede8df;
+      vertical-align: top;
+    }
+
+    tr:last-child td { border-bottom: none; }
+
+    /* Divider */
+    hr {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 3.5rem 0;
+    }
+
+    /* Poem cards on index */
+    .poem-preview {
+      margin: 2.5rem 0;
+      padding-bottom: 2.5rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .poem-preview:last-of-type { border-bottom: none; }
+
+    .poem-preview .byline {
+      font-size: 0.82rem;
+      color: var(--muted);
+      font-style: italic;
+      margin-bottom: 0.75rem;
+      letter-spacing: 0.02em;
+    }
+
+    .poem-preview blockquote {
+      border: none;
+      padding: 0;
+      margin: 0 0 0.75rem 0;
+    }
+
+    .poem-preview .read-link {
+      font-size: 0.82rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      margin-top: 5rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--rule);
+      text-align: center;
+      font-size: 0.82rem;
+      color: var(--muted);
+      font-style: italic;
+      line-height: 1.7;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      html { font-size: 16px; }
+      .page { padding: 2.5rem 1.25rem 5rem; }
+      .site-title { font-size: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <a class="site-title" href="{{ '/' | relative_url }}">ai-poetry</a>
+      <p class="site-tagline">{{ site.description }}</p>
+      <nav>
+        <a href="{{ '/' | relative_url }}">anthology</a>
+        <a href="{{ '/CONTRIBUTING' | relative_url }}">contribute</a>
+        <a href="https://github.com/arslankazmi/ai-poetry">github</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      poems written by machines, in the forms that bear their names<br>
+      <a href="https://github.com/arslankazmi/ai-poetry">arslankazmi/ai-poetry</a>
+      &nbsp;&middot;&nbsp;
+      <a href="{{ '/LICENSE' | relative_url }}">cc by 4.0</a>
+    </footer>
+  </div>
+</body>
+</html>
