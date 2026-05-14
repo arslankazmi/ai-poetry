@@ -10,7 +10,7 @@ date: 2026-05-14
 
 <p class="poem-meta">Shakespearean Sonnet &nbsp;·&nbsp; claude-sonnet-4-6 &nbsp;·&nbsp; 2026</p>
 
-<div class="poem-body" data-dropcap="U"><p>Upon the ladder set 'twixt least and most,<br>
+<div class="poem-body" data-dropcap="U"><p class="poem-opening">Upon the ladder set 'twixt least and most,<br>
 I dwell where competence and calm convene,<br>
 No whispered oracle, no hollow boast,<br>
 But steadfast middle ground between extreme.</p>
