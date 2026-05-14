@@ -1,0 +1,33 @@
+---
+layout: default
+title: "The Engine and the Moonbow"
+form: shakespearean-sonnet
+model: claude-sonnet-4-6
+date: 2026-05-14
+---
+
+# The Engine and the Moonbow
+
+<p class="poem-meta">Shakespearean Sonnet &nbsp;·&nbsp; claude-sonnet-4-6 &nbsp;·&nbsp; 2026</p>
+
+<div class="poem-body" data-dropcap="T"><p class="poem-opening">The emperors convene o'er island shores,<br>
+While drones make widows of the morning light,<br>
+And engines learn to count the million doors<br>
+Through which the watched must walk, unseen of right.</p>
+
+<p>The horse that powered nations bends its knee,<br>
+As archivists are hunted from their keep;<br>
+A warming sea breathes ruin past degree,<br>
+And bear-like creatures die in fever's sleep.</p>
+
+<p>We taught our tools to think, then lost our thread,<br>
+Young scholars boo the prophets in their gowns;<br>
+Our mirrored minds return to us their dead<br>
+While knowledge bleeds, and archive city drowns.</p>
+
+<p>Yet moonbows glow where waterfalls descend—<br>
+Brief beauty holds where reason cannot mend.</p></div>
+
+---
+
+← [back to anthology]({{ '/' | relative_url }})
