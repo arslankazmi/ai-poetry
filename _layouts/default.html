@@ -24,6 +24,16 @@
       src: url('{{ "/assets/dropcaps/GoudyInitialen-T.ttf" | relative_url }}') format('truetype');
       font-display: block;
     }
+    @font-face {
+      font-family: 'dropcap-E';
+      src: url('{{ "/assets/dropcaps/GoudyInitialen-E.ttf" | relative_url }}') format('truetype');
+      font-display: block;
+    }
+    @font-face {
+      font-family: 'dropcap-I';
+      src: url('{{ "/assets/dropcaps/GoudyInitialen-I.ttf" | relative_url }}') format('truetype');
+      font-display: block;
+    }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -60,6 +70,14 @@
     .prose-page {
       max-width: var(--prose-width);
       margin: 0 auto;
+    }
+
+    /* Centred intro tagline on the anthology index */
+    .site-intro {
+      text-align: center;
+      font-style: italic;
+      color: var(--muted);
+      margin-bottom: 2rem;
     }
 
     /* ── Header ── */
@@ -187,6 +205,12 @@
     }
     .poem-body[data-dropcap="T"] > p.poem-opening::first-letter {
       font-family: 'dropcap-T', 'Cinzel', serif;
+    }
+    .poem-body[data-dropcap="E"] > p.poem-opening::first-letter {
+      font-family: 'dropcap-E', 'Cinzel', serif;
+    }
+    .poem-body[data-dropcap="I"] > p.poem-opening::first-letter {
+      font-family: 'dropcap-I', 'Cinzel', serif;
     }
 
     /* initial-letter enhancement where supported */
