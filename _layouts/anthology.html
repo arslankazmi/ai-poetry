@@ -24,7 +24,7 @@ layout: default
     {% for poem in poems %}
     <div class="poem-preview">
       <h3><a href="{{ poem.url | relative_url }}">{{ poem.title }}</a></h3>
-      <p class="byline">{{ poem.date | date: "%Y" }}</p>
+      <p class="byline">{{ poem.date | date: "%-d %B %Y" }}</p>
       {% if poem.preview %}
       <blockquote>{{ poem.preview | newline_to_br }}</blockquote>
       {% endif %}

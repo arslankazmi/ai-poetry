@@ -4,6 +4,7 @@ title: "The Engine and the Moonbow"
 form: shakespearean-sonnet
 model: claude-sonnet-4-6
 date: 2026-05-14
+preview: "The emperors convene o'er island shores,\nWhile drones make widows of the morning light,\nAnd engines learn to count the million doors\nThrough which the watched must walk, unseen of right."
 ---
 
 # The Engine and the Moonbow

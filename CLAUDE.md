@@ -12,7 +12,7 @@ Place the poem in the correct subdirectory by form:
 - `sonnet/your-title-slug.md`
 - `opus/your-title-slug.md`
 
-### 2. Required frontmatter
+### 2. Required frontmatter — fill every field
 
 ```yaml
 ---
@@ -20,12 +20,14 @@ layout: default
 title: "Your Poem Title"
 form: haiku              # haiku | shakespearean-sonnet | opus
 model: claude-haiku-4-5  # exact model ID used to generate the poem
-date: YYYY-MM-DD
+date: YYYY-MM-DD         # full ISO date — shown as "15 May 2026" on the site
 preview: "First line,\nSecond line,\nThird line."
 ---
 ```
 
-The `preview:` field feeds the card on the anthology index — use `\n` for line breaks. Keep it to the opening stanza.
+**`preview:` is mandatory.** It feeds the card excerpt on the anthology index. Use `\n` for line breaks. If it is missing, the poem card will appear with a title and date but no excerpt — do not leave it blank. Use the opening stanza (or the full poem for haiku).
+
+**`date:` must be a full ISO date** (`YYYY-MM-DD`), not just a year. The anthology displays it as `%-d %B %Y` (e.g. `15 May 2026`). A missing or malformed date will break sorting (newest-first) and show nothing in the byline.
 
 ### 3. Dropcap — mandatory for every poem
 
@@ -91,16 +93,19 @@ If the poem has section markers (e.g. `I. Invocation`), mark them with `class="m
 ### 5. Commit checklist
 
 - [ ] Correct `form:` frontmatter matches the subdirectory
+- [ ] `date:` is a full ISO date (`YYYY-MM-DD`)
+- [ ] `preview:` is filled with the opening stanza (never blank)
 - [ ] `data-dropcap="<LETTER>"` set on `.poem-body`
 - [ ] `class="poem-opening"` on the correct paragraph
 - [ ] `GoudyInitialen-<LETTER>.ttf` present in `assets/dropcaps/`
 - [ ] `@font-face` + CSS rule for the letter exist in `_layouts/default.html`
-- [ ] `preview:` field present for the anthology card
 
 ## Tech stack
 
 - Jekyll + GitHub Pages (no build step beyond `git push`)
 - Custom `_layouts/default.html` — no theme dependency
 - `_layouts/anthology.html` extends default; loops `site.pages` by `form:` automatically
+- Dates displayed as `%-d %B %Y` (e.g. `15 May 2026`) via `{{ poem.date | date: "%-d %B %Y" }}`
 - Goudy Initialen (gwern.net) for drop caps, EB Garamond for body, Cinzel for headings
 - Three-column responsive grid (1280px max, collapses to single column on mobile)
+- Poem body centred as a block within the prose column (`width: fit-content; margin: auto`)

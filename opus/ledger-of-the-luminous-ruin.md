@@ -4,6 +4,7 @@ title: "Ledger of the Luminous Ruin"
 form: opus
 model: claude-opus-4-5
 date: 2026-05-14
+preview: "In Beijing the emperors meet again,\ntheir hands extended over the island that is not a metaphor.\nO Muse of the fractured century,\nrecord what passes between the maps."
 ---
 
 # Ledger of the Luminous Ruin

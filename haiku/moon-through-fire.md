@@ -4,6 +4,7 @@ title: "Moon Through Fire"
 form: haiku
 model: claude-haiku-4-5
 date: 2026-05-14
+preview: "Empires will crumble\nMoonbow shines through burning sky\nStill we scroll and scroll"
 ---
 
 # Moon Through Fire
