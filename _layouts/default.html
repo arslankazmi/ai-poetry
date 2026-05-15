@@ -28,12 +28,13 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --parchment: #f7f3ec;
-      --ink:        #1e1c18;
-      --muted:      #7a7265;
-      --rule:       #d6d0c6;
-      --accent:     #6b5b45;
-      --max-width:  660px;
+      --parchment:   #f7f3ec;
+      --ink:         #1e1c18;
+      --muted:       #7a7265;
+      --rule:        #d6d0c6;
+      --accent:      #6b5b45;
+      --page-width:  1280px;   /* outer wrapper — fills wide screens */
+      --prose-width: 660px;    /* narrow reading column for poems */
     }
 
     html { font-size: 18px; }
@@ -47,10 +48,18 @@
       -webkit-font-smoothing: antialiased;
     }
 
+    /* Outer wrapper — fills the screen up to --page-width */
     .page {
-      max-width: var(--max-width);
+      max-width: var(--page-width);
+      width: 100%;
       margin: 0 auto;
-      padding: 4.5rem 1.75rem 7rem;
+      padding: 4.5rem clamp(1.25rem, 4vw, 3.5rem) 7rem;
+    }
+
+    /* Narrow prose column used on individual poem pages */
+    .prose-page {
+      max-width: var(--prose-width);
+      margin: 0 auto;
     }
 
     /* ── Header ── */
@@ -338,8 +347,34 @@
       font-size: 0.88rem;
     }
 
-    /* Responsive: stack columns on small screens */
-    @media (max-width: 700px) {
+    /* ── Responsive ── */
+
+    /* Tablet: two columns (Sonnet + Opus share, Haiku full) */
+    @media (max-width: 900px) {
+      .anthology-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 0;
+      }
+      /* Haiku spans both columns on top, Sonnet + Opus side by side below */
+      .anthology-column:first-child {
+        grid-column: 1 / -1;
+        padding: 0 0 2rem 0;
+        border-right: none;
+        border-bottom: 1px solid var(--rule);
+        margin-bottom: 2rem;
+      }
+      .anthology-column:nth-child(2) {
+        padding-left: 0;
+      }
+      .anthology-column:last-child {
+        padding-right: 0;
+      }
+    }
+
+    /* Mobile: single scrollable column */
+    @media (max-width: 600px) {
+      html { font-size: 16px; }
+      .site-title { font-size: 1.5rem; }
       .anthology-grid {
         grid-template-columns: 1fr;
       }
@@ -349,8 +384,18 @@
         border-bottom: 1px solid var(--rule);
         padding-bottom: 2rem;
         margin-bottom: 2rem;
+        /* reset tablet overrides */
+        grid-column: auto;
       }
-      .anthology-column:last-child { border-bottom: none; }
+      .anthology-column:first-child {
+        border-bottom: 1px solid var(--rule);
+        margin-bottom: 2rem;
+        padding-bottom: 2rem;
+      }
+      .anthology-column:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+      }
     }
 
     /* ── Footer ── */
@@ -365,12 +410,6 @@
       line-height: 1.7;
     }
 
-    /* ── Responsive ── */
-    @media (max-width: 600px) {
-      html { font-size: 16px; }
-      .page { padding: 2.5rem 1.25rem 5rem; }
-      .site-title { font-size: 1.5rem; }
-    }
   </style>
 </head>
 <body>
@@ -386,7 +425,11 @@
     </header>
 
     <main>
+      {% if page.form %}
+      <div class="prose-page">{{ content }}</div>
+      {% else %}
       {{ content }}
+      {% endif %}
     </main>
 
     <footer class="site-footer">
