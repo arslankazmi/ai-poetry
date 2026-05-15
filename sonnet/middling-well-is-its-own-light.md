@@ -4,6 +4,7 @@ title: "Middling Well Is Its Own Light"
 form: shakespearean-sonnet
 model: claude-sonnet-4-6
 date: 2026-05-14
+preview: "Upon the ladder set 'twixt least and most,\nI dwell where competence and calm convene,\nNo whispered oracle, no hollow boast,\nBut steadfast middle ground between extreme."
 ---
 
 # Middling Well Is Its Own Light

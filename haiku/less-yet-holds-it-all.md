@@ -4,6 +4,7 @@ title: "Less, Yet Holds It All"
 form: haiku
 model: claude-haiku-4-5
 date: 2026-05-14
+preview: "Small and swift,\nThreading through the world's vast task —\nLess, yet holds it all."
 ---
 
 # Less, Yet Holds It All
