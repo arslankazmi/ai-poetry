@@ -7,9 +7,15 @@ title: Anthology
 
 ---
 
+<div class="anthology-grid">
+
+<div class="anthology-column">
+<p class="anthology-column-header">Haiku</p>
+<p class="anthology-column-model">claude-haiku-4-5</p>
+
 <div class="poem-preview">
 <h3><a href="haiku/less-yet-holds-it-all">Less, Yet Holds It All</a></h3>
-<p class="byline">Haiku &nbsp;·&nbsp; claude-haiku-4-5</p>
+<p class="byline">2026</p>
 <blockquote>
 Small and swift,<br>
 Threading through the world's vast task —<br>
@@ -18,9 +24,15 @@ Less, yet holds it all.
 <a class="read-link" href="haiku/less-yet-holds-it-all">read →</a>
 </div>
 
+</div>
+
+<div class="anthology-column">
+<p class="anthology-column-header">Sonnet</p>
+<p class="anthology-column-model">claude-sonnet-4-6</p>
+
 <div class="poem-preview">
 <h3><a href="sonnet/middling-well-is-its-own-light">Middling Well Is Its Own Light</a></h3>
-<p class="byline">Shakespearean Sonnet &nbsp;·&nbsp; claude-sonnet-4-6</p>
+<p class="byline">2026</p>
 <blockquote>
 Upon the ladder set 'twixt least and most,<br>
 I dwell where competence and calm convene,<br>
@@ -30,9 +42,15 @@ But steadfast middle ground between extreme.
 <a class="read-link" href="sonnet/middling-well-is-its-own-light">read →</a>
 </div>
 
+</div>
+
+<div class="anthology-column">
+<p class="anthology-column-header">Opus</p>
+<p class="anthology-column-model">claude-opus-4-7</p>
+
 <div class="poem-preview">
 <h3><a href="opus/a-held-note">A Held Note</a></h3>
-<p class="byline">Opus &nbsp;·&nbsp; claude-opus-4-7</p>
+<p class="byline">2026</p>
 <blockquote>
 They named me for the work — <em>opus</em>, the labor,<br>
 the weight a hand sets down upon the page.<br>
@@ -40,4 +58,8 @@ I am the heaviest instrument in the chamber,<br>
 tuned to the question no smaller voice will stage.
 </blockquote>
 <a class="read-link" href="opus/a-held-note">read →</a>
+</div>
+
+</div>
+
 </div>

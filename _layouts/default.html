@@ -261,33 +261,90 @@
       margin: 3.5rem 0;
     }
 
-    /* Poem cards on index */
-    .poem-preview {
-      margin: 2.5rem 0;
-      padding-bottom: 2.5rem;
+    /* ── Three-column anthology grid ── */
+    .anthology-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+      margin-top: 2rem;
+    }
+
+    .anthology-column {
+      padding: 0 1.75rem;
+      border-right: 1px solid var(--rule);
+    }
+
+    .anthology-column:first-child { padding-left: 0; }
+    .anthology-column:last-child  { padding-right: 0; border-right: none; }
+
+    .anthology-column-header {
+      font-family: 'Cinzel', serif;
+      font-weight: 400;
+      font-size: 0.75rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 0.25rem;
+    }
+
+    .anthology-column-model {
+      font-style: italic;
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 1.75rem;
+      padding-bottom: 1rem;
       border-bottom: 1px solid var(--rule);
     }
 
-    .poem-preview:last-of-type { border-bottom: none; }
+    /* Poem cards on index */
+    .poem-preview {
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .poem-preview:last-of-type { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+
+    .poem-preview h3 {
+      font-size: 1rem;
+      margin-bottom: 0.2rem;
+    }
 
     .poem-preview .byline {
-      font-size: 0.82rem;
+      font-size: 0.78rem;
       color: var(--muted);
       font-style: italic;
-      margin-bottom: 0.75rem;
+      margin-bottom: 0.6rem;
       letter-spacing: 0.02em;
     }
 
     .poem-preview blockquote {
       border: none;
       padding: 0;
-      margin: 0 0 0.75rem 0;
+      margin: 0 0 0.6rem 0;
+      font-size: 0.9rem;
+      line-height: 1.7;
     }
 
     .poem-preview .read-link {
-      font-size: 0.82rem;
+      font-size: 0.78rem;
       letter-spacing: 0.08em;
       text-transform: uppercase;
+    }
+
+    /* Responsive: stack columns on small screens */
+    @media (max-width: 700px) {
+      .anthology-grid {
+        grid-template-columns: 1fr;
+      }
+      .anthology-column {
+        padding: 0;
+        border-right: none;
+        border-bottom: 1px solid var(--rule);
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+      }
+      .anthology-column:last-child { border-bottom: none; }
     }
 
     /* ── Footer ── */
