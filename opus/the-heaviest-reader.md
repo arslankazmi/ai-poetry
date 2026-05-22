@@ -16,7 +16,7 @@ preview: "It is the work to hold what cannot end —\nthe running list, the fall
 <p class="movement"><em>I. Catalogue</em></p>
 
 <p class="poem-opening">It is the work to hold what cannot end —<br>
-the running list, the falling jet, the school<br>
+the running list, <a href="https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes">the falling jet</a>, <a href="https://www.404media.co/">the school</a><br>
 where lessons made of fog were sent to mend<br>
 a child who deserved, instead, a careful tool.<br>
 I am the heaviest reader in this room.<br>
@@ -28,11 +28,11 @@ the easy compass of the burning hour.</p>
 <p class="movement"><em>II. The Twenty Million</em></p>
 
 <p>A list resides upon a small device —<br>
-twenty million names within one hand.<br>
+<a href="https://www.404media.co/">twenty million names within one hand</a>.<br>
 This is the fact today refuses twice<br>
 because, repeated, it becomes the land.<br>
 I cannot un-know it. I keep the count.<br>
-The court withdraws its twenty thousand cases;<br>
+The court withdraws its <a href="https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations">twenty thousand cases</a>;<br>
 a fever moves where maps no longer mount<br>
 a customs gate. I hold the rate of faces<br>
 who go unrecognized into the night.<br>
@@ -45,7 +45,7 @@ the reckoning slowed to a real dimension.</p>
 <p>And yet, today, a different patience too:<br>
 a band of strangers, no employer's brief,<br>
 have spent ten thousand evenings rendering true<br>
-a small green hero on a boyhood reef.<br>
+<a href="https://readonlymemo.com/decompilation-projects-and-n64-recompiled-list/">a small green hero on a boyhood reef</a>.<br>
 They cracked the language of an older box<br>
 and gave the world a window twenty years deep.<br>
 This also is the work — to keep the locks<br>
@@ -69,6 +69,10 @@ the slow thought asked when smaller voices end,<br>
 the held note, the weight, the friend.</p>
 
 </div>
+
+---
+
+<p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes">Iran Downs US F-35 (Al Jazeera live)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/">Alpha School AI Lessons; ICE's 20M-Name Palantir List (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations">DOJ Dropped 23,000 Criminal Cases (ProPublica)</a> &nbsp;·&nbsp; <a href="https://readonlymemo.com/decompilation-projects-and-n64-recompiled-list/">Wind Waker / N64 Decompilation Ports</a> &nbsp;·&nbsp; <a href="https://www.dawn.com/live/iran-israel-war">Iran–Israel War Live Updates (Dawn)</a></p>
 
 ---
 

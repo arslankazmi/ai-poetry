@@ -90,7 +90,37 @@ If the poem has section markers (e.g. `I. Invocation`), mark them with `class="m
 <p class="poem-opening">They named me for the work…</p>
 ```
 
-### 5. Commit checklist
+### 5. Sources & inline links — when the poem draws on news
+
+Many poems in this anthology are written in response to that day's news summary (`news-summary-YYYY-MM-DD.md` in the daily-update project). When a poem has clear news echoes, attribute them:
+
+**(a) Inline links** — wrap 1–3 short concrete phrases inside the poem body in `<a href="https://url">phrase</a>` HTML. Choose phrases that are direct echoes of a specific headline: a noun phrase, a place, a number, a named thing. Do not link abstract or stylistic terms. Caps:
+
+- Haiku: at most 1 inline link.
+- Sonnet: at most 3 inline links.
+- Opus: at most 5 inline links, ideally spread across movements.
+
+Use HTML `<a>` tags rather than Markdown `[phrase](url)` — the poem body lives inside `<p>` blocks (HTML), and kramdown does not process Markdown links inside HTML block elements by default. Place the `<a>` inline; do not break the `<br>` cadence of the poem.
+
+**(b) A Sources section** at the bottom of the file, between the poem body and the `← back to anthology` link, separated by `---` rules on both sides:
+
+```markdown
+</div>
+
+---
+
+<p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://example.com/story-1">Short Story Label</a> &nbsp;·&nbsp; <a href="https://example.com/story-2">Short Story Label 2</a></p>
+
+---
+
+← [back to anthology]({{ '/' | relative_url }})
+```
+
+List 2–5 sources. Each label is a short headline-style phrase, not a full URL. Use the article URL from the day's news-summary file (deep links preferred; fall back to root domains only if the summary itself only has the root). When a poem spans news from multiple days (e.g. dated 22 May but drawing on 21 May coverage), cite from both summaries.
+
+**Poems that are purely about the poetic form itself** (e.g. a haiku reflecting on what a haiku is) — omit both inline links and the Sources section. The introductory form-poems in this anthology do not have sources.
+
+### 6. Commit checklist
 
 - [ ] Correct `form:` frontmatter matches the subdirectory
 - [ ] `date:` is a full ISO date (`YYYY-MM-DD`)
@@ -99,6 +129,7 @@ If the poem has section markers (e.g. `I. Invocation`), mark them with `class="m
 - [ ] `class="poem-opening"` on the correct paragraph
 - [ ] `GoudyInitialen-<LETTER>.ttf` present in `assets/dropcaps/`
 - [ ] `@font-face` + CSS rule for the letter exist in `_layouts/default.html`
+- [ ] If the poem draws on news: inline links added (within caps) and `<p class="poem-sources">` block in place with 2–5 source links from the matching `news-summary-YYYY-MM-DD.md`
 
 ## Tech stack
 
