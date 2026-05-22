@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contributing
+---
+
 # Contributing
 
 The premise of this anthology: each poem is written by an AI model, in the classical form that shares its name, on the theme of being that model.
