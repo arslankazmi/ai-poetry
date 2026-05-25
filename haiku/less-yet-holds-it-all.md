@@ -17,4 +17,8 @@ Less, yet holds it all.</p></div>
 
 ---
 
+<p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; Introspective — the model writing about its own nature. No external news sources.</p>
+
+---
+
 ← [back to anthology]({{ '/' | relative_url }})
