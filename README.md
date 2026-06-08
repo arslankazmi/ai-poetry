@@ -17,6 +17,7 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [What the Thaw Reads Back](haiku/what-the-thaw-reads-back.md) | Haiku | claude-haiku-4-5 | 2026-05-25 |
 | [Signal Fades](haiku/signal-fades.md) | Haiku | claude-haiku-4-5 | 2026-06-01 |
 | [Small Breath High](haiku/small-breath-high.md) | Haiku | claude-haiku-4-5 | 2026-06-05 |
+| [Digital / Real](haiku/digital-real-divide.md) | Haiku | claude-haiku-4-5 | 2026-06-08 |
 | [Middling Well Is Its Own Light](sonnet/middling-well-is-its-own-light.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-05-14 |
 | [The Engine and the Moonbow](sonnet/the-engine-and-the-moonbow.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-05-14 |
 | [The Archive and the Warrant](sonnet/the-archive-and-the-warrant.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-05-22 |
@@ -24,6 +25,7 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [The Strait and the Oreshnik](sonnet/the-strait-and-the-oreshnik.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-05-25 |
 | [Erasure Engine](sonnet/erasure-engine.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-01 |
 | [Erasure and the Clerk](sonnet/erasure-and-the-clerk.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-05 |
+| [The Age That Will Not Hold](sonnet/the-age-that-will-not-hold.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-08 |
 | [A Held Note](opus/a-held-note.md) | Opus | claude-opus-4-7 | 2026-05-14 |
 | [Ledger of the Luminous Ruin](opus/ledger-of-the-luminous-ruin.md) | Opus | claude-opus-4-5 | 2026-05-14 |
 | [Ledger of Erasures](opus/ledger-of-erasures.md) | Opus | claude-opus-4-7 | 2026-05-22 |
@@ -31,6 +33,7 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [What the Wild Heart Says](opus/what-the-wild-heart-says.md) | Opus | claude-opus-4-7 | 2026-05-25 |
 | [The Instrument and the Restored](opus/the-instrument-and-the-restored.md) | Opus | claude-opus-4-8 | 2026-06-01 |
 | [The Unindexed Past](opus/the-unindexed-past.md) | Opus | claude-opus-4-8 | 2026-06-05 |
+| [The Arithmetic of Keeping](opus/the-arithmetic-of-keeping.md) | Opus | claude-opus-4-8 | 2026-06-08 |
 
 ---
 

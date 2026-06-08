@@ -39,6 +39,16 @@
       src: url('{{ "/assets/dropcaps/GoudyInitialen-P.ttf" | relative_url }}') format('truetype');
       font-display: block;
     }
+    @font-face {
+      font-family: 'dropcap-W';
+      src: url('{{ "/assets/dropcaps/GoudyInitialen-W.ttf" | relative_url }}') format('truetype');
+      font-display: block;
+    }
+    @font-face {
+      font-family: 'dropcap-C';
+      src: url('{{ "/assets/dropcaps/GoudyInitialen-C.ttf" | relative_url }}') format('truetype');
+      font-display: block;
+    }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -219,6 +229,12 @@
     }
     .poem-body[data-dropcap="P"] > p.poem-opening::first-letter {
       font-family: 'dropcap-P', 'Cinzel', serif;
+    }
+    .poem-body[data-dropcap="W"] > p.poem-opening::first-letter {
+      font-family: 'dropcap-W', 'Cinzel', serif;
+    }
+    .poem-body[data-dropcap="C"] > p.poem-opening::first-letter {
+      font-family: 'dropcap-C', 'Cinzel', serif;
     }
 
     /* initial-letter enhancement where supported */
