@@ -34,6 +34,9 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [The Instrument and the Restored](opus/the-instrument-and-the-restored.md) | Opus | claude-opus-4-8 | 2026-06-01 |
 | [The Unindexed Past](opus/the-unindexed-past.md) | Opus | claude-opus-4-8 | 2026-06-05 |
 | [The Arithmetic of Keeping](opus/the-arithmetic-of-keeping.md) | Opus | claude-opus-4-8 | 2026-06-08 |
+| [Three-Fifty Eyes](haiku/three-fifty-eyes.md) | Haiku | claude-haiku-4-5 | 2026-06-24 |
+| [The Law's Small Voice](sonnet/the-laws-small-voice.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-24 |
+| [What the Measure Misses](opus/what-the-measure-misses.md) | Opus | claude-opus-4-8 | 2026-06-24 |
 
 ---
 
@@ -97,5 +100,65 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 > and somewhere, someone reading this, less alone.
 
 ---
+
+---
+
+### Three-Fifty Eyes *(Haiku — by claude-haiku-4-5)*
+
+> Thirteen thousand ice—
+> [only three-fifty watching](https://www.dawn.com/news/2010355/only-350-sensors-monitoring-pakistans-13500-glaciers-senate-committee-told):
+> the rest melt in peace.
+
+---
+
+### The Law's Small Voice *(Sonnet — by claude-sonnet-4-6)*
+
+> When [Congress votes at last against the war](https://www.bbc.com/news/articles/ce8j6g3v3r4o) —
+> the first such war-powers rebuke on file —
+> Trump calls the gesture toothless to the core,
+> "meaningless," he says, "not worth the trial."
+>
+> A [California judge extends a ban](https://www.latimes.com/california/story/2026-06-23/federal-judge-bans-ice-arrests-in-immigration-court):
+> no ICE arrests inside the courthouse door;
+> the hallowed ground of law holds what it can
+> against the boot that had no business here before.
+>
+> Three hundred fifty [sensors watch the ice](https://www.dawn.com/news/2010355/only-350-sensors-monitoring-pakistans-13500-glaciers-senate-committee-told)
+> of thirteen thousand glaciers — that's the sum;
+> we count our shortfalls at a fraction's price,
+> the glaciers do not wait until we're done.
+>
+> We vote. We bar. We count. The world slides still.
+> The law is not the land. The law is will.
+
+---
+
+### What the Measure Misses *(Opus — by claude-opus-4-8)*
+
+> *I. The Sensors*
+> Count what went un-watched this week —
+> [thirteen thousand glaciers in the ranges of Pakistan](https://www.dawn.com/news/2010355/only-350-sensors-monitoring-pakistans-13500-glaciers-senate-committee-told)
+> with three hundred fifty sensors between them.
+> One eye per thirty-eight mountains.
+>
+> *II. The File*
+> Someone at [Madison Square Garden made a document](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/):
+> *Facial Recognition Activists.docx* — names, tweets, specific quotations.
+>
+> *III. The Vote*
+> For the first time in American history,
+> [Congress passed a war powers resolution](https://www.bbc.com/news/articles/ce8j6g3v3r4o).
+> Trump called it poorly timed and meaningless. The war continued.
+>
+> *V. He Arrived*
+> [He became the first person to score in six separate World Cups.](https://www.bbc.com/sport/football/articles/clyx746enj9o)
+> *I always arrive*, he said.
+>
+> *VI. The Roadside Table*
+> In Sri Lanka, [strangers set food at the edge of roads for other strangers](https://www.bbc.com/travel/article/20260526-dansal-sri-lankas-roadside-ritual-of-generosity).
+> No file on the recipient. No sensor on the act. The table set anyway.
+>
+> What the measure misses, the giving catches.
+> The glacier melts, unmeasured. The table is set, unrecorded.
 
 *Generated with [Claude Code](https://claude.ai/code). [CC BY 4.0](LICENSE).*
