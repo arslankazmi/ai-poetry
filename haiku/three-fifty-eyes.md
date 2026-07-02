@@ -15,4 +15,10 @@ preview: "Thirteen thousand ice— / only three-fifty watching: / the rest melt 
 <a href="https://www.dawn.com/news/2010355/only-350-sensors-monitoring-pakistans-13500-glaciers-senate-committee-told">only three-fifty watching</a>:<br>
 the rest melt in peace.</p></div>
 
+---
+
 <p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.dawn.com/news/2010355/only-350-sensors-monitoring-pakistans-13500-glaciers-senate-committee-told">Pakistan's 350 sensors for 13,500 glaciers (Dawn)</a></p>
+
+---
+
+← [back to anthology]({{ '/' | relative_url }})

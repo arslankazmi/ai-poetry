@@ -15,4 +15,10 @@ preview: "Earth cracks twice at dawn —\nwhile diplomats ink the deal,\nCaracas
 while <a href="https://www.dawn.com/news/2010572/us-iran-deal-may-leave-israels-netanyahu-as-biggest-casualty">diplomats ink the deal</a>,<br>
 <a href="https://www.pbs.org/newshour/world/back-to-back-powerful-earthquakes-slam-venezuela-collapsing-buildings-in-the-capital-of-caracas">Caracas still falls</a>.</p></div>
 
+---
+
 <p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.pbs.org/newshour/world/back-to-back-powerful-earthquakes-slam-venezuela-collapsing-buildings-in-the-capital-of-caracas">Back-to-Back Earthquakes Strike Venezuela (PBS NewsHour)</a> &nbsp;·&nbsp; <a href="https://www.dawn.com/news/2010572/us-iran-deal-may-leave-israels-netanyahu-as-biggest-casualty">US-Iran Deal May Leave Netanyahu as Biggest Casualty (Dawn)</a></p>
+
+---
+
+← [back to anthology]({{ '/' | relative_url }})

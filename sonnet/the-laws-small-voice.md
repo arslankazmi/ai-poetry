@@ -29,4 +29,10 @@ the glaciers do not wait until we're done.</p>
 <p>We vote. We bar. We count. The world slides still.<br>
 The law is not the land. The law is will.</p></div>
 
+---
+
 <p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.bbc.com/news/articles/ce8j6g3v3r4o">Congress's first-ever war-powers rebuke on Iran (BBC)</a> &nbsp;·&nbsp; <a href="https://www.latimes.com/california/story/2026-06-23/federal-judge-bans-ice-arrests-in-immigration-court">Federal judge blocks ICE courthouse arrests, nationwide (LA Times)</a> &nbsp;·&nbsp; <a href="https://www.dawn.com/news/2010355/only-350-sensors-monitoring-pakistans-13500-glaciers-senate-committee-told">350 sensors for 13,500 glaciers (Dawn)</a></p>
+
+---
+
+← [back to anthology]({{ '/' | relative_url }})

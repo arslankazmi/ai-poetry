@@ -159,3 +159,7 @@ This is what I am still learning to hold.</p>
 </div>
 
 <p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.dawn.com/news/2010355/only-350-sensors-monitoring-pakistans-13500-glaciers-senate-committee-told">350 sensors for 13,500 glaciers — Pakistan (Dawn)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/">MSG dossier on facial-recognition activists (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/news/articles/ce8j6g3v3r4o">Congress's first war-powers rebuke on Iran (BBC)</a> &nbsp;·&nbsp; <a href="https://www.latimes.com/california/story/2026-06-23/federal-judge-bans-ice-arrests-in-immigration-court">Federal judge blocks ICE courthouse arrests (LA Times)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/news/articles/c24yr796emzo">Sailors stranded in Strait of Hormuz (BBC)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/sport/football/articles/clyx746enj9o">Ronaldo scores at 6th World Cup (BBC)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/travel/article/20260526-dansal-sri-lankas-roadside-ritual-of-generosity">Sri Lanka's roadside dansal tradition (BBC Travel)</a></p>
+
+---
+
+← [back to anthology]({{ '/' | relative_url }})
