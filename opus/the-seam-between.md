@@ -28,9 +28,9 @@ to read the seam the mountain briefly spelled.</p>
 
 <p>In France, they <a href="https://www.bbc.com/future/article/20260625-why-the-french-are-painting-chalk-on-their-windows">paint their windows white with chalk</a><br>
 to give the record heat back to the sun;<br>
-in <a href="https://www.bbc.com/news/articles/cx2knzzwprgo">Germany, the thermometers stopped talk</a><br>
+in Germany, the thermometers stopped talk<br>
 at forty-one point three — the summer young.<br>
-And in the Turkish plains, the <a href="https://www.bbc.com/future/article/20260624-droughts-are-transforming-the-turkish-landscape-with-massive-sinkholes">sinkholes widen</a><br>
+And in the Turkish plains, the sinkholes widen<br>
 where aquifers have dried to nothing deep;<br>
 the drought transformed what even stone could hide in:<br>
 the ground falls in on what it couldn't keep.</p>
@@ -52,30 +52,30 @@ the funded answer keeping drilling's lease.</p>
 
 <p class="movement"><em>IV. The Strait</em></p>
 
-<p><a href="https://www.dawn.com/live/iran-israel-war#2011078">Eight vessels took the Iran-approved route</a><br>
-through <a href="https://www.dawn.com/live/iran-israel-war">Hormuz in the dark before the light</a>;<br>
+<p>Eight vessels took the Iran-approved route<br>
+through Hormuz in the dark before the light;<br>
 the <a href="https://www.dawn.com/live/iran-israel-war#2011089">US struck an Iranian redoubt</a> —<br>
 retaliation for a vessel's plight.<br>
-<a href="https://www.dawn.com/live/iran-israel-war#2011090">Iran's Guards struck US positions back</a>;<br>
-<a href="https://www.dawn.com/live/iran-israel-war#2011097">Lebanon and Israel signed a pact</a><br>
+Iran's Guards struck US positions back;<br>
+Lebanon and Israel signed a pact<br>
 with Washington — the needle off its track<br>
 toward something less than war, though still intact.<br>
 The UN called the Strait to open wide;<br>
-<a href="https://www.dawn.com/live/iran-israel-war#2011091">VP Vance warned of "violence"</a> on the side —<br>
+VP Vance warned of "violence" on the side —<br>
 the unnamed threat that runs the morning's tide,<br>
 the seam the world keeps open, keeps denied.</p>
 
 <p class="movement"><em>V. The Signal</em></p>
 
-<p>The <a href="https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/">cosmic web is vaster than we knew</a> —<br>
+<p>The cosmic web is vaster than we knew —<br>
 dark-matter scaffolding runs longer lines;<br>
 the structures holding galaxies are true<br>
 beyond the model's reach, beyond its signs.<br>
-Meanwhile, the <a href="https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa">new AI models need a gate</a>:<br>
+Meanwhile, the new AI models need a gate:<br>
 the White House holds the key to their release;<br>
-<a href="https://www.dawn.com/news/2011100/us-allows-anthropic-to-release-mythos-ai-to-trusted-organisations">Mythos cleared for trusted</a> — navigate<br>
+Mythos cleared for trusted — navigate<br>
 the clearance list, or hold your work in peace.<br>
-<a href="https://www.dawn.com/news/2011079/openai-launches-limited-release-of-new-model-in-us-only">OpenAI's new model: US only now</a> —<br>
+OpenAI's new model: US only now —<br>
 intelligence itself requires the bow.</p>
 
 <p class="movement"><em>VI. Coda: The Meeting</em></p>

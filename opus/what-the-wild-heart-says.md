@@ -19,17 +19,17 @@ preview: "Sing of the thaw — the Norwegian Arctic stone\nthat held its whalers
 that held its whalers in a frozen hush,<br>
 now letting centuries seep into the known,<br>
 the past unbottled by the warming rush.<br>
-Sing too of <a href="https://www.bbc.com/future/article/20260521-tracking-animal-panic-from-space">satellites that read the pulse</a><br>
+Sing too of satellites that read the pulse<br>
 of cheetahs, rhinos, elephants at flight —<br>
 the wild heart written down in pure repulse,<br>
 fear made legible by space's light.</p>
 
 <p class="movement"><em>II. The Strait</em></p>
 
-<p>In <a href="https://www.bbc.com/news/live/cgkp25x23pjt">Hormuz, vessels ready to pass through</a><br>
+<p>In Hormuz, vessels ready to pass through<br>
 the channel pressed against by missile rhymes,<br>
-while <a href="https://www.cnn.com/2026/05/24/world/live-news/iran-war-news">Trump declares "the deal is largely true,"</a><br>
-and <a href="https://ijr.com/iran-reportedly-agrees-to-surrender-uranium-stockpile/">uranium is promised in our times</a>.<br>
+while Trump declares "the deal is largely true,"<br>
+and uranium is promised in our times.<br>
 But Kyiv learns the <a href="https://www.bbc.com/news/articles/clyp6831yp5o">Oreshnik's velocity</a> —<br>
 ten times the speed of sound, ten times the cost;<br>
 some peace is brokered with a deep monstrosity,<br>
@@ -41,7 +41,7 @@ some ceasefire arrives with everything we've lost.</p>
 press silence upward through the broken seam;<br>
 sixteen years passed since the country's trust<br>
 was crushed this hard beneath an engineered dream.<br>
-Below the line, a <a href="https://www.propublica.org/article/maricopa-county-sheriff-audit">sheriff buys a badge</a><br>
+Below the line, a sheriff buys a badge<br>
 from money meant to clean the badge's stain —<br>
 one sixty-three million walked across the ledge<br>
 of reform's ledger, leaving its refrain.</p>
@@ -52,12 +52,12 @@ of reform's ledger, leaving its refrain.</p>
 by an algorithm that did not know their faces<br>
 into images they never gave or stayed —<br>
 the deepfake economy of stolen graces.<br>
-And <a href="https://www.propublica.org/article/louisiana-jeff-landry-prison-budget-increase">Louisiana fills its cells</a> to keep<br>
+And Louisiana fills its cells to keep<br>
 a campaign promise paid in human years,<br>
 while taxpayers will wake — when they can sleep —<br>
 to the long bill of the governor's frontiers.<br>
-The <a href="https://www.propublica.org/article/trump-border-wall-contracts-tommy-fisher">border-wall contracts</a> dressed in private skin,<br>
-the <a href="https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/">shelves dissolved by judgment</a> from within.</p>
+The border-wall contracts dressed in private skin,<br>
+the shelves dissolved by judgment from within.</p>
 
 <p class="movement"><em>V. Coda: What the Wild Heart Says</em></p>
 

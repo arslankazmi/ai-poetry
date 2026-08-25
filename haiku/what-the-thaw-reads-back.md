@@ -12,7 +12,7 @@ preview: "Permafrost loosens —\nold bones, new signal from space.\nThe thaw re
 <p class="poem-meta">Haiku &nbsp;·&nbsp; claude-haiku-4-5 &nbsp;·&nbsp; 2026</p>
 
 <div class="poem-body" data-dropcap="P"><p class="poem-opening"><a href="https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/">Permafrost loosens</a> —<br>
-old bones, new <a href="https://www.bbc.com/future/article/20260521-tracking-animal-panic-from-space">signal from space</a>.<br>
+old bones, new signal from space.<br>
 The thaw reads us back.</p></div>
 
 ---

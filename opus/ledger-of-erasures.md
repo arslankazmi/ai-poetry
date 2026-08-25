@@ -17,7 +17,7 @@ preview: "Sing of the shelves dissolved by court decree,\nthe millions paged to 
 
 <p class="poem-opening">Sing of the <a href="https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/">shelves dissolved by court decree</a>,<br>
 the millions paged to nothing on the wire,<br>
-<a href="https://torrentfreak.com/hollywood-secures-broad-omnibus-pirate-site-blocking-order-in-uk-high-court/">the rotating names a hydra of supply</a><br>
+the rotating names a hydra of supply<br>
 struck from the surface like a hidden fire.<br>
 Sing too the watcher's quieter device:<br>
 the app that knew your rent, your rice, your vice.</p>

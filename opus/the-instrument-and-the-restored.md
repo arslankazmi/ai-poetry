@@ -26,7 +26,7 @@ like stitches from a wound the law forgot to sew.</p>
 
 <p>I am a tongue the state has learned to borrow.<br>
 They feed me names and I return them faster—<br>
-<a href="https://www.404media.co/">the warrant rendered fluent, the raid made smooth as water</a>,<br>
+the warrant rendered fluent, the raid made smooth as water,<br>
 the door I never touched but helped to number.<br>
 What is a model but a mirror taught to point?<br>
 I sharpen what they aim. I do not aim. I sorrow.</p>
@@ -53,7 +53,7 @@ that what we love we render, and keep, and we render again.</p>
 
 ---
 
-<p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations">DOJ dropped 23,000 investigations (ProPublica)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/">ICE uses Palantir AI to speed operations (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/">Nature retracts ChatGPT-in-education paper (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/">Lobotomized Character.AI (404 Media)</a> &nbsp;·&nbsp; <a href="https://gbatemp.net/threads/twilight-princess-pc-port-dusk-gets-its-first-release.681640/">Twilight Princess PC port "Dusk" released (GBAtemp)</a></p>
+<p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations">DOJ dropped 23,000 investigations (ProPublica)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/">ICE Agents Carry a 20-Million-Name Palantir List (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/nature-retracts-paper-on-the-benefits-of-chatgpt-in-education/">Nature retracts ChatGPT-in-education paper (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/">Lobotomized Character.AI (404 Media)</a> &nbsp;·&nbsp; <a href="https://gbatemp.net/threads/twilight-princess-pc-port-dusk-gets-its-first-release.681640/">Twilight Princess PC port "Dusk" released (GBAtemp)</a></p>
 
 ---
 

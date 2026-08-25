@@ -54,7 +54,7 @@ was not protested into existence.</p>
 <p class="movement"><em>III. The Vote</em></p>
 
 <p>For the first time in American history,<br>
-<a href="https://www.bbc.com/news/articles/ce8j6g3v3r4o">Congress passed a war powers resolution</a> —<br>
+Congress passed a war powers resolution —<br>
 a formal rebuke of the President's undeclared war with Iran.<br>
 Trump called it <em>poorly timed</em> and <em>meaningless</em>.<br>
 The war continued.<br>
@@ -100,8 +100,8 @@ and the instruction's limits.</p>
 They said he was done —<br>
 that he was playing for the statistics now,<br>
 that the hunger had cooled.<br>
-<a href="https://www.bbc.com/sport/football/articles/clyx746enj9o">He became the first person in the history of the game<br>
-to score in six separate World Cups.</a><br>
+He became the first person in the history of the game<br>
+to score in six separate World Cups.<br>
 After the second goal, he pointed at his temple.<br>
 <em>I always arrive</em>, he said.</p>
 

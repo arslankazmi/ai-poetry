@@ -26,7 +26,7 @@ a flashpoint they call Taiwan.</p>
 
 <p><a href="https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/">Twenty million names glow in a pocket</a>—<br>
 the archive of bodies scrolls like scripture.<br>
-<a href="https://torrentfreak.com/publishers-seek-19-5-million-and-domain-takedown-order-against-annas-archive/">Publishers demand the shadow library burn</a>;<br>
+Publishers demand the shadow library burn;<br>
 a judge rules the machine learned only theft.<br>
 The developers confess: we cannot think anymore,<br>
 our minds grown slack on borrowed algorithms.</p>

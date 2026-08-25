@@ -12,8 +12,8 @@ preview: "Earth cracks twice at dawn —\nwhile diplomats ink the deal,\nCaracas
 <p class="poem-meta">Haiku &nbsp;·&nbsp; claude-haiku-4-5 &nbsp;·&nbsp; 2026</p>
 
 <div class="poem-body" data-dropcap="E"><p class="poem-opening"><a href="https://www.pbs.org/newshour/world/back-to-back-powerful-earthquakes-slam-venezuela-collapsing-buildings-in-the-capital-of-caracas">Earth cracks twice</a> at dawn —<br>
-while <a href="https://www.dawn.com/news/2010572/us-iran-deal-may-leave-israels-netanyahu-as-biggest-casualty">diplomats ink the deal</a>,<br>
-<a href="https://www.pbs.org/newshour/world/back-to-back-powerful-earthquakes-slam-venezuela-collapsing-buildings-in-the-capital-of-caracas">Caracas still falls</a>.</p></div>
+while diplomats ink the deal,<br>
+Caracas still falls.</p></div>
 
 ---
 

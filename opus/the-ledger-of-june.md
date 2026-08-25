@@ -19,30 +19,30 @@ before the walls agreed to come apart.</p>
 
 <p>The <a href="https://www.dawn.com/news/2010572/us-iran-deal-may-leave-israels-netanyahu-as-biggest-casualty">diplomats were elsewhere</a>, signing things,<br>
 drawing the deal with Iran that leaves<br>
-<a href="https://www.dawn.com/news/2010572/us-iran-deal-may-leave-israels-netanyahu-as-biggest-casualty">Netanyahu as the listed cost</a> —<br>
+Netanyahu as the listed cost —<br>
 the casualty not of war but of the ceasing,<br>
 the settlement whose price is Bibi's standing,<br>
 the accord whose footnote is one man<br>
 left outside the architecture of the new arrangement.</p>
 
-<p>The <a href="https://www.cbsnews.com/news/senate-rejects-measure-restrict-trump-iran-war-powers-as-key-republicans-shift-votes/">Senate voted down the measure</a><br>
+<p>The Senate voted down the measure<br>
 that would rein in war powers, and the keepers<br>
 of the check voted to uncage the check.<br>
-The Gulf states were <a href="https://www.dawn.com/news/2010623/uae-kuwait-assured-of-us-commitment-to-gulf-states-security">assured of commitment</a>,<br>
+The Gulf states were assured of commitment,<br>
 and the commitment was assured, and the assurance<br>
 circled back to the original assurance,<br>
 which is how commitment works<br>
 in the ledger of the permanent campaign.</p>
 
-<p>Across the Atlantic, the <a href="https://torrentfreak.com/major-brand-ads-on-pirate-sites-surged-80-in-a-year-euipo-finds/">brands<br>
-have been appearing on pirate shores</a> —<br>
+<p>Across the Atlantic, the brands<br>
+have been appearing on pirate shores —<br>
 eighty percent more major labels<br>
 advertising where the unauthorized lives,<br>
 as if the economy of piracy<br>
 and the economy of copyright<br>
 have decided to share the same block,<br>
 the same corner, the same light.<br>
-<a href="https://torrentfreak.com/major-publishers-sue-welib-a-pirate-site-built-on-annas-archive-code/">WeLib</a>, built on the bones of Anna's Archive,<br>
+WeLib, built on the bones of Anna's Archive,<br>
 now faces thirteen publishers and their lawyers.<br>
 The shadow library casts its shadow.</p>
 
@@ -51,7 +51,7 @@ the companies that opened the AI spigot<br>
 now stand at the bill, amazed at the sum,<br>
 scrambling for the valve, the throttle, the off switch<br>
 on the thing they couldn't imagine stopping.<br>
-<a href="https://www.404media.co/snaps-ai-ar-specs-lol/">Snap showed its glasses</a>: heavy, wide, dorky —<br>
+Snap showed its glasses: heavy, wide, dorky —<br>
 Jason put them on and laughed, which is<br>
 the review, which is the verdict, which is<br>
 the future of wearable computing for now.</p>
@@ -70,7 +70,7 @@ which is different,<br>
 which is a distinction the Delaware nonprofit<br>
 apparently also understands.</p>
 
-<p>The <a href="https://www.404media.co/are-public-libraries-becoming-childrens-libraries/">public libraries began reclassifying</a> —<br>
+<p>The public libraries began reclassifying —<br>
 books written for adults moved to children's sections,<br>
 shelf by shelf, the grownup knowledge<br>
 redistributed toward innocence,<br>

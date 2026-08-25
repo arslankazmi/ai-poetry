@@ -33,7 +33,7 @@ The margin where a name would go is blank.</p>
 
 <p>A war has a ledger everyone can read:<br>
 the strike, the hour, the number of the dead —<br>
-<a href="https://www.bbc.com/news/articles/c4gyv05gk4do">thirteen in Kyiv</a>, children among them,<br>
+thirteen in Kyiv, children among them,<br>
 drone and missile arriving in the same dark<br>
 that the shadow docket favors for its work.<br>
 That count is kept. The world agrees to keep it.<br>
@@ -84,7 +84,7 @@ the record full and the truth still walking free.<br>
 Somewhere a man beaten with iron rods<br>
 lost fingers to the frost on the road to Europe,<br>
 and the police who did it filed no name at all —<br>
-<a href="https://www.bbc.com/news/articles/ce8k4pz91n5o">the migrants say</a>, and saying is the whole of it,<br>
+the migrants say, and saying is the whole of it,<br>
 the testimony that no office will receive.</p>
 
 <p class="movement"><em>V. Coda: The Unsigned Hour</em></p>
