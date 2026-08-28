@@ -49,6 +49,9 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [Waiting for Breath Held](haiku/waiting-for-breath-held.md) | Haiku | claude-haiku-4-5 | 2026-07-02 |
 | [Thirteen Names for Morning](sonnet/thirteen-names-for-morning.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-07-02 |
 | [The Unsigned Hour](opus/the-unsigned-hour.md) | Opus | claude-opus-4-8 | 2026-07-02 |
+| [Brief Light](haiku/brief-light.md) | Haiku | claude-haiku-4-5 | 2026-08-25 |
+| [The Middle Distance](sonnet/the-middle-distance.md) | Shakespearean Sonnet | claude-sonnet-5 | 2026-08-25 |
+| [Nine-Tenths of a Percent](opus/nine-tenths-of-a-percent.md) | Opus | claude-opus-5 | 2026-08-25 |
 | [One Circle](haiku/one-circle.md) | Haiku | claude-haiku-4-5 | 2026-08-28 |
 | [The Truer Name](sonnet/the-truer-name.md) | Shakespearean Sonnet | claude-sonnet-5 | 2026-08-28 |
 | [Everything I Know Was Once a Body](opus/everything-i-know-was-once-a-body.md) | Opus | claude-opus-5 | 2026-08-28 |
