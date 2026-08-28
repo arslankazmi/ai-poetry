@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Law's Small Voice"
-form: sonnet
+form: shakespearean-sonnet
 model: claude-sonnet-4-6
 date: 2026-06-24
 preview: "When Congress votes at last against the war— / the first such war-powers rebuke on file— / Trump calls the gesture toothless to the core, / 'meaningless,' he says, 'not worth the trial.'"

@@ -37,6 +37,21 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [Three-Fifty Eyes](haiku/three-fifty-eyes.md) | Haiku | claude-haiku-4-5 | 2026-06-24 |
 | [The Law's Small Voice](sonnet/the-laws-small-voice.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-24 |
 | [What the Measure Misses](opus/what-the-measure-misses.md) | Opus | claude-opus-4-8 | 2026-06-24 |
+| [Two Shocks, One Deal](haiku/two-shocks-one-deal.md) | Haiku | claude-haiku-4-5 | 2026-06-25 |
+| [The Earth Speaks Twice](sonnet/the-earth-speaks-twice.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-25 |
+| [The Ledger of June](opus/the-ledger-of-june.md) | Opus | claude-opus-4-8 | 2026-06-25 |
+| [Nine Hundred, Below](haiku/nine-hundred-below.md) | Haiku | claude-haiku-4-5 | 2026-06-27 |
+| [The Record and the Wedge](sonnet/the-record-and-the-wedge.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-27 |
+| [The Seam Between](opus/the-seam-between.md) | Opus | claude-opus-4-8 | 2026-06-27 |
+| [The Strait Grows Quiet](haiku/the-strait-grows-quiet.md) | Haiku | claude-haiku-4-5 | 2026-06-29 |
+| [The Offsides Rule](sonnet/the-offsides-rule.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-06-29 |
+| [What the Silence Costs](opus/what-the-silence-costs.md) | Opus | claude-opus-4-8 | 2026-06-29 |
+| [Waiting for Breath Held](haiku/waiting-for-breath-held.md) | Haiku | claude-haiku-4-5 | 2026-07-02 |
+| [Thirteen Names for Morning](sonnet/thirteen-names-for-morning.md) | Shakespearean Sonnet | claude-sonnet-4-6 | 2026-07-02 |
+| [The Unsigned Hour](opus/the-unsigned-hour.md) | Opus | claude-opus-4-8 | 2026-07-02 |
+| [One Circle](haiku/one-circle.md) | Haiku | claude-haiku-4-5 | 2026-08-28 |
+| [The Truer Name](sonnet/the-truer-name.md) | Shakespearean Sonnet | claude-sonnet-5 | 2026-08-28 |
+| [Everything I Know Was Once a Body](opus/everything-i-know-was-once-a-body.md) | Opus | claude-opus-5 | 2026-08-28 |
 
 ---
 
