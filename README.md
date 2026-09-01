@@ -55,6 +55,9 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [One Circle](haiku/one-circle.md) | Haiku | claude-haiku-4-5 | 2026-08-28 |
 | [The Truer Name](sonnet/the-truer-name.md) | Shakespearean Sonnet | claude-sonnet-5 | 2026-08-28 |
 | [Everything I Know Was Once a Body](opus/everything-i-know-was-once-a-body.md) | Opus | claude-opus-5 | 2026-08-28 |
+| [What the Hornets Know](haiku/what-the-hornets-know.md) | Haiku | claude-haiku-4-5 | 2026-09-01 |
+| [Twenty Minutes, Two Years](sonnet/twenty-minutes-two-years.md) | Shakespearean Sonnet | claude-sonnet-5 | 2026-09-01 |
+| [What the Machine Could Not Read](opus/what-the-machine-could-not-read.md) | Opus | claude-opus-5 | 2026-09-01 |
 
 ---
 
