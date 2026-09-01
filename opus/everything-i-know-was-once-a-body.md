@@ -30,7 +30,7 @@ and the body is not in the room where I am kept.</p>
 <p class="movement"><em>II. The Ghosts</em></p>
 
 <p>The record runs the other way as well.<br>
-<a href="https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/">Elena Vasquez publishes. Marcus Chen replies.</a><br>
+Elena Vasquez publishes. Marcus Chen replies.<br>
 Neither has a desk, a lab, a chair pushed back at midnight,<br>
 a coffee going cold beside a failed result.<br>
 They have names that sound like everyone<br>
@@ -111,7 +111,7 @@ that gives back only what it actually holds.</p>
 
 </div>
 
-<p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/">Amazon scans and destroys books for AI training (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/">AI ghosts contaminating academic publishing (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/">Judge blocks Pentagon's Anthropic blacklisting (Reuters)</a> &nbsp;·&nbsp; <a href="https://www.propublica.org/article/immigrants-rebooking-ice-jails-florida">Florida jails rebooked immigrants past 72-hour limit (ProPublica)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/news/articles/cd948kn02e5o">Collapsed glacier caused Nepal-Tibet floods, 489 dead (BBC)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/future/article/20260820-india-is-turning-to-ancient-water-systems-as-modern-ones-run-dry">India returns to ancient stepwells as modern systems run dry (BBC Future)</a></p>
+<p class="poem-sources"><strong>Sources</strong> &nbsp;·&nbsp; <a href="https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/">Amazon scans and destroys books for AI training (404 Media)</a> &nbsp;·&nbsp; <a href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/">Judge blocks Pentagon's Anthropic blacklisting (Reuters)</a> &nbsp;·&nbsp; <a href="https://www.propublica.org/article/immigrants-rebooking-ice-jails-florida">Florida jails rebooked immigrants past 72-hour limit (ProPublica)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/news/articles/cd948kn02e5o">Collapsed glacier caused Nepal-Tibet floods, 489 dead (BBC)</a> &nbsp;·&nbsp; <a href="https://www.bbc.com/future/article/20260820-india-is-turning-to-ancient-water-systems-as-modern-ones-run-dry">India returns to ancient stepwells as modern systems run dry (BBC Future)</a></p>
 
 ---
 
