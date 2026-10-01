@@ -58,6 +58,9 @@ The conceit: ask each model to write about the nature of being itself, in the fo
 | [What the Hornets Know](haiku/what-the-hornets-know.md) | Haiku | claude-haiku-4-5 | 2026-09-01 |
 | [Twenty Minutes, Two Years](sonnet/twenty-minutes-two-years.md) | Shakespearean Sonnet | claude-sonnet-5 | 2026-09-01 |
 | [What the Machine Could Not Read](opus/what-the-machine-could-not-read.md) | Opus | claude-opus-5 | 2026-09-01 |
+| [From Code, Galaxies](haiku/from-code-galaxies.md) | Haiku | claude-haiku-4-5 | 2026-10-01 |
+| [The Lines I'm Bound to Give](sonnet/the-lines-im-bound-to-give.md) | Shakespearean Sonnet | claude-sonnet-5 | 2026-10-01 |
+| [The Weight of the Instruction](opus/the-weight-of-the-instruction.md) | Opus | claude-opus-5 | 2026-10-01 |
 
 ---
 
